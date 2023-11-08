@@ -71,3 +71,7 @@ h2 {
     padding-top: 20px;
 }
 
+.col {
+    flex-basis: 50%;
+    min-width: 300px;
+}
